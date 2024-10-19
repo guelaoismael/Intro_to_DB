@@ -1,7 +1,7 @@
 
 -- Create database 'alx_book_store'
 
-CREATE DATABASE alx_book_store ;
+CREATE DATABASE IF NOT EXISTS alx_book_store ;
 
 -- Create a table named `Books` (if it doesn't exist)
 
